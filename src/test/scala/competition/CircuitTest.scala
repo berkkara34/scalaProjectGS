@@ -1,0 +1,5 @@
+package competition
+
+class CircuitTest {
+
+}
